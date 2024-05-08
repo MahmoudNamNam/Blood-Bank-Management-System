@@ -21,7 +21,7 @@
 - [Maram Mohamed](https://github.com/maram-mohamed)
 - [Soha Ahmed](https://github.com/soha131)
 - [Maryam Magdy](https://github.com/mariaammagdy)
-- [Mahmoud Hamed](https://github.com/MahmoudNamNam)
+- [Ahmed Abdulrahim](https://github.com/MaStEr156)
 
 ## Screenshots
 ![image](https://github.com/MaStEr156/Blood-Bank-Management-System/assets/50383734/a108c8a9-d071-4b81-91ef-94e54eaf0afc)
